@@ -45,7 +45,7 @@ User question → Embed query → Retrieve top-4 chunks → Build grounded promp
 ## Project structure
 
 ```
-DocMind/
+docmind-rag-chatbot/
 ├── app.py              # Streamlit UI — sidebar, chat tab, flashcards tab
 ├── ingest.py           # Upload → chunk → embed → ChromaDB
 ├── retrieval.py        # Semantic search with BGE query prefix
@@ -70,8 +70,8 @@ DocMind/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/docmind.git
-cd docmind
+git clone https://github.com/khusheengoyal/docmind-rag-chatbot.git
+cd docmind-rag-chatbot
 ```
 
 **2. Create a virtual environment (Python 3.12)**

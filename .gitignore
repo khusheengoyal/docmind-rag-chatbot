@@ -1,0 +1,22 @@
+# Environment
+.env
+.streamlit/secrets.toml
+
+# Virtual environment
+.venv/
+
+# ChromaDB persistent store
+chroma_store/
+
+# Uploaded documents (never commit user data)
+uploaded_docs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db

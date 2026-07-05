@@ -1,0 +1,20 @@
+Artificial Intelligence: A Beginner's Overview
+
+Artificial intelligence (AI) refers to the simulation of human intelligence processes by computer systems. These processes include learning (acquiring information and rules for using it), reasoning (using rules to reach approximate or definite conclusions), and self-correction.
+
+Machine Learning is a subset of AI that enables systems to learn and improve from experience without being explicitly programmed. Instead of writing rules by hand, engineers feed large amounts of data to algorithms that figure out the rules themselves. Common types include supervised learning, unsupervised learning, and reinforcement learning.
+
+Deep Learning is a further subset of machine learning that uses neural networks with many layers (hence "deep"). These networks are loosely inspired by the human brain and excel at tasks like image recognition, speech recognition, and natural language understanding. The breakthrough moment for deep learning came in 2012 when a deep neural network named AlexNet dramatically outperformed traditional methods on the ImageNet image classification challenge.
+
+Natural Language Processing (NLP) is the branch of AI focused on enabling computers to understand, interpret, and generate human language. Modern NLP systems use transformer architectures, introduced in the 2017 paper "Attention Is All You Need" by Vaswani et al. Transformers process entire sequences of text in parallel rather than word by word, making them far more efficient and powerful.
+
+Large Language Models (LLMs) are a type of deep learning model trained on massive text datasets to understand and generate human language. Examples include GPT-4, Claude, Gemini, and Llama. They are trained using a technique called self-supervised learning, where the model predicts the next word in a sequence. LLMs can perform tasks they were never explicitly trained for, a property called emergent behavior.
+
+Retrieval-Augmented Generation (RAG) is an AI architecture that combines a retrieval system with a language model. Instead of relying solely on what the model learned during training, RAG first searches a knowledge base for relevant documents and then passes those documents to the model along with the question. This grounds the model's answer in specific, verifiable sources and reduces hallucinations.
+
+Embeddings are numerical representations of text (or other data) as vectors in a high-dimensional space. Words or sentences with similar meanings are placed close together in this space. Embedding models convert text into these vectors, enabling semantic search — finding documents that are conceptually similar to a query even if they don't share exact words.
+
+Example questions for this document:
+- What is the difference between AI and machine learning?
+- What is RAG and why does it reduce hallucinations?
+- What are embeddings and how do they enable semantic search?

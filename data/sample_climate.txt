@@ -1,0 +1,20 @@
+Climate Change: Key Facts and Science
+
+Climate change refers to long-term shifts in global temperatures and weather patterns. While some climate change is natural, since the mid-20th century human activities — primarily the burning of fossil fuels — have become the dominant driver of climate change observed today.
+
+The Greenhouse Effect is the natural process by which certain gases in Earth's atmosphere trap heat from the sun. Water vapor, carbon dioxide (CO2), methane (CH4), and nitrous oxide (N2O) are the primary greenhouse gases. Without any greenhouse effect, Earth's average surface temperature would be approximately -18°C instead of the current +15°C. Human activities have increased the concentration of these gases well beyond natural levels.
+
+Carbon Dioxide Levels: Before industrialization, atmospheric CO2 was approximately 280 parts per million (ppm). As of 2024, it has exceeded 420 ppm — the highest level in at least 800,000 years, based on ice core records. The rate of increase has accelerated over the past 50 years.
+
+Global Temperature Rise: Earth's average surface temperature has risen by approximately 1.2°C since the late 19th century. The last decade (2014–2024) was the warmest on record. Scientists generally consider 1.5°C of warming to be a critical threshold, beyond which risks of extreme weather events, sea level rise, and ecosystem disruption increase significantly.
+
+Sea Level Rise: Global sea levels have risen about 20 cm since 1900, with the rate accelerating in recent decades. The primary causes are thermal expansion of warming ocean water and melting of glaciers and ice sheets. Projections suggest sea levels could rise by 0.3 to 1 meter by 2100 under various emissions scenarios.
+
+The Paris Agreement, adopted in 2015 by 196 parties, is an international treaty on climate change. Its central aim is to hold global temperature rise to well below 2°C above pre-industrial levels and to pursue efforts to limit the increase to 1.5°C. Countries submit Nationally Determined Contributions (NDCs) outlining their emissions reduction targets.
+
+Renewable Energy: Solar and wind energy are now the cheapest sources of new electricity generation in most of the world. Solar photovoltaic costs have dropped by more than 90% since 2010. In 2023, renewables accounted for approximately 30% of global electricity generation, up from 22% in 2015.
+
+Example questions for this document:
+- What was the pre-industrial CO2 level and what is it today?
+- What does the Paris Agreement aim to achieve?
+- Why is 1.5°C considered a critical warming threshold?

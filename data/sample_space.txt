@@ -1,0 +1,23 @@
+Space Exploration: Milestones and the New Space Age
+
+Space exploration is the investigation of outer space using astronomy and space technology. It began in earnest in the mid-20th century, driven by competition between the United States and the Soviet Union during the Cold War era known as the Space Race.
+
+Early Milestones:
+- 1957: The Soviet Union launched Sputnik 1, the first artificial satellite to orbit Earth.
+- 1961: Soviet cosmonaut Yuri Gagarin became the first human in space, completing one orbit of Earth aboard Vostok 1.
+- 1969: NASA's Apollo 11 mission landed astronauts Neil Armstrong and Buzz Aldrin on the Moon on July 20, 1969. Armstrong's first words upon stepping on the lunar surface were: "That's one small step for man, one giant leap for mankind."
+- 1971: The Soviet Union launched Salyut 1, the first space station.
+- 1990: The Hubble Space Telescope was launched, revolutionizing astronomy with deep-field images of billions of galaxies.
+
+Mars Exploration: Mars has been explored by more than 50 missions since the 1960s. The NASA Curiosity rover, active since 2012, confirmed that Mars once had conditions suitable for microbial life. The Perseverance rover, which landed in February 2021, is actively searching for signs of ancient microbial life and collecting rock samples for a future return mission to Earth.
+
+The International Space Station (ISS) is a modular space station in low Earth orbit, jointly operated by NASA, Roscosmos, ESA, JAXA, and CSA. Construction began in 1998 and it has been continuously inhabited since November 2000. It orbits at approximately 408 km altitude and travels at 27,600 km/h, completing 15.5 orbits per day.
+
+The New Space Era refers to the growth of private commercial spaceflight. SpaceX, founded by Elon Musk in 2002, developed the Falcon 9 reusable rocket and the Dragon spacecraft. In 2020, SpaceX became the first private company to send astronauts to the ISS. Blue Origin, founded by Jeff Bezos, focuses on suborbital tourism with its New Shepard rocket and is developing the New Glenn orbital rocket.
+
+The James Webb Space Telescope (JWST), launched on December 25, 2021, is the largest and most powerful space telescope ever built. It operates in infrared light, allowing it to see the first galaxies formed after the Big Bang and to study the atmospheres of exoplanets — planets orbiting other stars — for potential signs of habitability.
+
+Example questions for this document:
+- Who was the first human in space and when did this happen?
+- What is the ISS and how fast does it travel?
+- What makes the James Webb Space Telescope different from Hubble?

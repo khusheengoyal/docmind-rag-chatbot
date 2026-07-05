@@ -1,3 +1,5 @@
+import os
+
 import streamlit as st
 from dotenv import load_dotenv
 
@@ -15,6 +17,15 @@ from flashcards import generate_flashcards, sample_chunks
 from summaries import generate_summary, generate_questions
 
 load_dotenv()
+
+# On Streamlit Cloud, inject GROQ_API_KEY from st.secrets into os.environ so
+# all modules (generation, flashcards, summaries) can read it via os.getenv.
+# Falls back silently to .env (local dev) or a pre-set env var.
+try:
+    if "GROQ_API_KEY" not in os.environ:
+        os.environ["GROQ_API_KEY"] = st.secrets["GROQ_API_KEY"]
+except (KeyError, FileNotFoundError):
+    pass
 
 # ── 1. Page config ────────────────────────────────────────────────────────────
 # Must be the first Streamlit call — anything before it raises an error.

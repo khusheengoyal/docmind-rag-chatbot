@@ -2,6 +2,8 @@
 
 A local RAG (Retrieval-Augmented Generation) chatbot that answers questions **only from the documents you upload** — every answer is grounded in your content and cites its source.
 
+**Live demo:** [khusheen-docmind.streamlit.app](https://khusheen-docmind.streamlit.app)
+
 | Chat + suggested questions | Knowledge base summary | Flashcards |
 |---|---|---|
 | ![Chat](assets/screenshot-chat.png) | ![Summary](assets/screenshot-summary.png) | ![Flashcards](assets/screenshot-flashcards.png) |

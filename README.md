@@ -10,6 +10,34 @@ A local RAG (Retrieval-Augmented Generation) chatbot that answers questions **on
 
 ---
 
+## The business problem
+
+General-purpose AI assistants may not reliably ground their responses in the
+documents you actually give them — a response can sound authoritative while
+being unrelated to (or contradicting) the file you uploaded, with no way to
+check where the claim came from. Manually skimming long PDFs for the right
+passage doesn't scale past a handful of pages.
+
+## The solution
+
+DocMind restricts every answer to only what's in your uploaded documents and
+shows the source passage behind each one, so you can verify it instead of
+trusting it. Ask questions, get a knowledge base summary, or generate
+flashcards for review — all grounded in your own content, running locally
+except for the final generation call.
+
+## Status
+
+- [x] Document upload — PDF/TXT, chunked and embedded locally
+- [x] Grounded chat with source citations — answers restricted to uploaded content
+- [x] Knowledge base summary — one-click overview of everything ingested
+- [x] Suggested starter questions — auto-generated from your documents on first load
+- [x] Flashcards — generated from content, with flip animation
+- [x] Persistent storage — ChromaDB keeps your knowledge base between sessions
+- [x] Test suite — chunking + retrieval (`pytest tests/ -v`)
+
+---
+
 ## Features
 
 - **Grounded chat** — answers pulled exclusively from uploaded PDFs and TXT files, with source citations
